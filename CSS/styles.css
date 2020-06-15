@@ -1,0 +1,147 @@
+body{
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color:  #EAF6F6;
+  ;
+
+
+}
+.img{
+ height: 200px;
+ margin-top: 20px;
+margin-left: auto;
+}
+
+ .logo1{
+   float: left;
+   margin-right: 30px;
+   width: 25%
+
+ }
+ .logo{
+   float: right;
+  margin-left: 30px;
+   width: 25%
+
+ }
+
+.skills{
+
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  width: 50%
+
+}
+.skill-row{
+
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+  width: 50%
+
+}
+h1{
+  color: #66BFBF;
+  font-size: 90px;
+  margin-top: 50px;
+
+}
+p{
+  line-height: 2;
+}
+
+
+ .ski{
+   margin-left: 300px;
+ }
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+
+hr{
+
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  height: 10px;
+  width: 5%;
+
+}
+
+
+
+h2{
+
+    color: #66BFBF;
+    margin-left: 30px;
+  font-family: 'sacramento', sans-serif;
+  font-size:20px;
+padding-bottom: 10px
+}
+h3{
+  color: #11999e;
+    font-family: 'sacramento', sans-serif;
+}
+
+
+
+.top-container{
+
+  background-color: #eaf9f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container{
+  margin: 100px 0  ;
+}
+ .bottom-container{
+   background-color: #66BFBF;
+   font-family: 'Merriweather', serif;
+ }
+
+a{
+  color: #11999e;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.copyright{
+  color: #eaf6f6;
+  font-size: 75%
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+
+}
+
+
+
+.btn {
+	background-color:#44c767;
+	border-radius:28px;
+	border:1px solid black;
+	display:inline-block;
+	cursor:pointer;
+	color:black;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+  
+	text-decoration:none;
+
+}
+.btn:hover {
+	background-color: #eaf6f6;
+}
